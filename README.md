@@ -1,4 +1,4 @@
-# 🌿 Medicinal Plant Identification using Deep Learning
+# 🌿 Medicinal Plant Identification using Deep Learning (Present)
 
 This repository presents our research and implementation of a **multi-organ medicinal plant classification system** using advanced deep learning techniques. We explore the visual characteristics of **leaf, bark, stem, and flower** parts of medicinal plants to build a high-accuracy recognition system.
 
